@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="text_size_error_message">20sp</dimen>
+    <dimen name="layout_height">200dp</dimen>
+    <dimen name="margin_dimen">10dp</dimen>
+    <dimen name="textView_dimen">47dp</dimen>
+    <dimen name="margin_top">5dp</dimen>
+    <dimen name="gridView_dimen">180dp</dimen>
+    <dimen name="gridView_margin">0dp</dimen>
+    <dimen name="imageView_dimen">230dp</dimen>
+
+</resources>

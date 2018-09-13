@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">PopularMovies</string>
+    <string name="textView_error_message_no_data">No data to display currently. Please try later!</string>
+    <string name="textView_error_message_no_internet">No internet connection.</string>
+    <string name="most_popular">popular</string>
+    <string name="top_rated">top_rated</string>
+    <string name="plot_synopsis">Plot Synopsis: </string>
+    <string name="vote_average">Vote Average: </string>
+    <string name="release_date">Release Date: </string>
+    <string name="title">Title: </string>
+</resources>
